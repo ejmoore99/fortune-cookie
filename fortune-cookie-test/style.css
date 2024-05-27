@@ -1,0 +1,38 @@
+h1 {
+  color: rgb(117, 196, 171);
+}
+
+body {
+  background-color: black;
+}
+
+input {
+  background-image: url('bluedragon.jpeg');
+  width: 500px;
+  height: 300px;
+  border-style: outset;
+  border-width: medium;
+  word-wrap: break-word;
+  color: rgb(179, 211, 246);
+  font-size: large;
+  font-weight: 100;
+  font-style: italic;
+  font-family: fantasy;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+label {
+  background-color: rgb(134, 218, 190);
+  color: #000000;
+}
+button {
+  background-color: rgb(134, 218, 190);
+  align-content: center;
+}
+
+.generate-fortune-btn {
+  width: 50px;
+}
