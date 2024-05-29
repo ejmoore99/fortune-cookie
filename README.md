@@ -1,4 +1,4 @@
-# Fortune Cookiez Web App
+# Fortune Cookiez
 
 This web app, Fortune Cookiez, allows users to generate random fortune messages at the click of a button. It uses the "My Fun API" to fetch fortune messages, providing an entertaining and lighthearted experience for users.
 
