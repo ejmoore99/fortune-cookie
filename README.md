@@ -1,14 +1,13 @@
 # Fortune Cookiez
 
+This web app, Fortune Cookiez, allows users to generate random fortune messages at the click of a button. It uses the "My Fun API" to fetch fortune messages, providing an entertaining and lighthearted experience for users.
+
 ![Screenshot (96)](https://github.com/ejmoore99/fortune-cookie/assets/155325780/cdafa74a-5c17-445d-9890-4015fca28ada)
 
 ## Demo
 
+https://github.com/ejmoore99/fortune-cookie/assets/155325780/d29f83c5-742d-49c0-83f5-fd82d2ca7bc5
 
-https://github.com/ejmoore99/fortune-cookie/assets/155325780/d8226198-3171-4275-b7bd-ffd9531d3a27
-
-
-This web app, Fortune Cookiez, allows users to generate random fortune messages at the click of a button. It uses the "My Fun API" to fetch fortune messages, providing an entertaining and lighthearted experience for users.
 
 ## Features
 
